@@ -1,10 +1,11 @@
 Video Summarization Application
-
 ==============================
 
-1- Extracting frames
-2- Comparing by histogram based on threshould
-3- Creating new video with remaining frames.
+  1- Extracting frames
+  
+  2- Comparing by histogram based on threshould
+  
+  3- Creating new video with remaining frames.
 
 It is for video moderation.
 ------------------------------------
